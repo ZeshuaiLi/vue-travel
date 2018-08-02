@@ -1,0 +1,77 @@
+{
+  "banner": [{
+      "img": "http://m.efubao.qa/static_new/img/banner-joinpartner.jpg",
+      "url": "http://m.efubao.qa/joinpartner.html"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/tuanjian-banner.jpg",
+      "url": "http://m.efubao.qa/zhuanti/14.html"
+    },
+    {
+      "img": "http://m.efubao.qa/huodong/11.html",
+      "url": "http://m.efubao.qa/static_new/img/qixuan-banner.jpg"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/index/banner-1-180327.jpg",
+      "url": "http://m.efubao.qa/case"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/index/banner-2-180327.jpg",
+      "url": "http://m.efubao.qa/case"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/package/kaixue/index-banner.jpg",
+      "url": "http://m.efubao.qa/zhuanti/2.html"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/banner-joinpartner.jpg",
+      "url": "http://m.efubao.qa/joinpartner.html"
+    },
+    {
+      "img": "http://m.efubao.qa/static_new/img/tuanjian-banner.jpg",
+      "url": "http://m.efubao.qa/zhuanti/14.html"
+    }
+  ],
+  "enterprise": 6132,
+  "type": [{
+      "url": "http://m.efubao.qa/choice/detail_poloshirt.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-a.jpg"
+    },
+    {
+      "url": "http://m.efubao.qa/choice/detail_tshirt.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-b.jpg"
+    },
+    {
+      "url": "http://m.efubao.qa/choice/detail_hoody.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-c.jpg"
+    },
+    {
+      "url": "http://m.efubao.qa/choice/detail_waiter.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-f.jpg"
+    },
+    {
+      "url": "http://m.efubao.qa/choice/detail_formalsuits.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-g.jpg"
+    },
+    {
+      "url": "http://m.efubao.qa/choice/detail_special.html",
+      "img": "http://m.efubao.qa/static_new/img/clothes/clothes-h.jpg"
+    }
+  ],
+  "case": [{
+      "url": "http://m.efubao.qa/case/26.html",
+      "img": "http://m.efubao.qa/static_new/img/case-blackhorse.jpg",
+      "title": "黑马上市涨停战袍"
+    },
+    {
+      "url": "http://m.efubao.qa/case/21.html",
+      "img": "http://m.efubao.qa/static_new/img/case-center.jpg",
+      "title": "P7中央财经学院毕业典礼"
+    },
+    {
+      "url": "http://m.efubao.qa/case/28.html",
+      "img": "http://m.efubao.qa/static_new/img/case-zbj.jpg",
+      "title": "猪八戒网十周年纪念团服"
+    }
+  ]
+}

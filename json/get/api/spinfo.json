@@ -1,0 +1,13 @@
+{
+  "code": "200",
+  "data": {
+      "companyName": [
+          "贸易商/ODM"
+      ],
+      "companyNaturename": "企业",
+      "id": 398,
+      "name": "想定制就选我",
+      "userMobile": "15810937212"
+  },
+  "message": "发送成功"
+}

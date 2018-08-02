@@ -1,0 +1,45 @@
+body {
+  background-color: #fff;
+}
+li{
+  list-style: none;
+}
+@import './skin.less';
+.slide-enter-active{
+  transition: all .3s ease .3s;
+}
+.slide-leave-active{
+  transition: all .3s ease;
+}
+.slide-enter {
+  transform: translateX(100%);
+}
+.slide-leave-active {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+.router-link-exact-active.active{
+  color: blue;
+}
+
+a:active, a:focus, a:visited, a:link {
+  outline: none;
+  color: #333;
+}
+
+button {
+  border: none;
+}
+
+a {
+  //-webkit-tap-highlight-color: ;
+}
+.clearfix {
+    zoom: 1;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}

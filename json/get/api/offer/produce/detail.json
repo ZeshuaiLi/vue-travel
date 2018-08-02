@@ -1,0 +1,62 @@
+{
+  "code": "200",
+  "data": {
+    "accessoriesLst": [{
+      "accessoriesName": "棉",
+      "accessoriesPrice": 20,
+      "id": 478,
+      "reqOfferCategoryId": 442,
+      "spId": 398
+    }],
+    "customizedNum": 1,
+    "fabricLst": [{
+      "fabricCost": 1,
+      "fabricDesc": "90%丝光棉",
+      "fabricRate": 100,
+      "id": 490,
+      "reqOfferCategoryId": 442,
+      "spId": 398,
+      "unitPrice": 20
+    }],
+    "offerId": 388,
+    "reqOfferCategoryId": 442,
+    "spReqOffer": {
+      "categoryContent": "职业装-衬衣",
+      "categoryId": 53,
+      "customizedNum": 1,
+      "customizedNumFinal": 1,
+      "description": "随便写吧",
+      "fabric": 1,
+      "id": 1115,
+      "isChoosen": false,
+      "offerCategoryId": 442,
+      "productionCycle": 10,
+      "proofOrderGoodsId": 1,
+      "proofOrderGoodsPrice": 1,
+      "remark": "",
+      "reqInfoId": 13162,
+      "reqInfoNo": "201803123162",
+      "reqOfferId": 388,
+      "reqOfferNo": "201805150388",
+      "samplePrice": 1,
+      "sizePic": "",
+      "spId": 398,
+      "state": 1,
+      "title": "职业装-衬衣",
+      "univalence": 2300
+    },
+    "surcharge": {
+      "accessoriesPrice": 20,
+      "fabricPrice": 2000,
+      "fee": 10,
+      "freight": 10,
+      "id": 429,
+      "profit": 10,
+      "reqOfferCategoryId": 442,
+      "spId": 398,
+      "specialTechnics": 10,
+      "taxation": 10
+    }
+  },
+  "message": "发送成功"
+}

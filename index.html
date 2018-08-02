@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="keywords" content="依服宝,服装定制">
+    <meta name="description" content="依服宝,服装定制">
+    <link rel="icon" href="//www.efubao.com/favicon.ico" mce_href="//www.efubao.com/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+    <title>服务商</title>
+    <!-- <script src="//cdn.jsdelivr.net/npm/eruda"></script>
+    <script>eruda.init();</script> -->
+    <!-- <script>
+      window.onerror = function (e){
+        alert(e)
+      }
+    </script> -->
+    <script>
+      (function (doc, win) {
+        var docEl = doc.documentElement,
+            resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+            recalc = function () {
+                var clientWidth = docEl.clientWidth;
+                if (!clientWidth) return;
+                docEl.style.fontSize = (clientWidth * 16) / 375 + 'px';
+            };
+        if (!doc.addEventListener) return;
+        win.addEventListener(resizeEvt, recalc, false);
+        doc.addEventListener('DOMContentLoaded', recalc, false);
+        recalc();
+      })(document, window);
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <%=htmlWebpackPlugin.files.webpackManifest%>
+  </body>
+</html>

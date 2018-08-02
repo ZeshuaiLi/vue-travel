@@ -1,0 +1,8 @@
+{
+  "code": "200",
+  "data": {
+    "data1": "hellow",
+    "data2": "world"
+  },
+  "message": "发送成功"
+}

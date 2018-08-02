@@ -1,0 +1,40 @@
+{
+  "code": "200",
+  "data": {
+    "fabric": {
+      "fabricCost": "测试内容e786",
+      "fabricDesc": "测试内容72u3",
+      "fabricRate": "测试内容5t38",
+      "id": 44217,
+      "reqOfferCategoryId": 57035,
+      "spId": 16411,
+      "unitPrice": 82145
+    },
+    "spofferviewbean": {
+      "categoryContent": "测试内容vs3d",
+      "categoryId": 45861,
+      "customizedNum": 14164,
+      "customizedNumFinal": 10784,
+      "description": "测试内容h311",
+      "fabric": "测试内容ln0e",
+      "id": 42504,
+      "isChoosen": false,
+      "offerCategoryId": 17853,
+      "productionCycle": 65431,
+      "proofOrderGoodsId": 41767,
+      "proofOrderGoodsPrice": 25142,
+      "remark": "测试内容iws5",
+      "reqInfoId": 46581,
+      "reqInfoNo": "测试内容of4r",
+      "reqOfferId": 15277,
+      "reqOfferNo": "测试内容j7r8",
+      "samplePrice": 10703,
+      "sizePic": "测试内容5133",
+      "spId": 58776,
+      "state": 51451,
+      "title": "测试内容2380",
+      "univalence": 12752
+    }
+  },
+  "message": "发送成功"
+}
