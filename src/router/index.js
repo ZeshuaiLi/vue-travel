@@ -5,7 +5,7 @@ import {sync} from 'vuex-router-sync'
 import store from '../store'
 
 // 修改为按需加载
-const helloWorld = () => import('@/components/helloWorld')
+const Home = () => import('@/pages/home/Home')
 
 Vue.use(Router)
 
@@ -13,8 +13,8 @@ const router = new Router({
   routes: [
     {
       path: '/',
-      name: 'helloWorld',
-      component: helloWorld
+      name: 'Home',
+      component: Home
     }
   ]
 })
