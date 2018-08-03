@@ -5,6 +5,7 @@ import Vue from 'vue'
 
 import App from './App'
 import fastClick from 'fastclick'
+import VueAwesomeSwiper from 'vue-awesome-swiper'
 import {
   LoadingPlugin // 加载插件
 } from 'vux'
@@ -13,6 +14,7 @@ import router from './router'
 import store from './store'
 import './assets/less/main.less'
 import './assets/reset.css'
+import 'swiper/dist/css/swiper.css'
 
 import Axios from './api/axios'
 
@@ -32,6 +34,7 @@ Vue.use(LoadingPlugin)
 // 过滤器
 Vue.filter('fixed', fixed)
 
+Vue.use(VueAwesomeSwiper)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

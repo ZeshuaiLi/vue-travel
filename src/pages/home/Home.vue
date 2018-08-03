@@ -1,14 +1,17 @@
 <template>
   <div>
     <home-header></home-header>
+    <index-swiper></index-swiper>
   </div>
 </template>
 <script>
   import HomeHeader from "./components/Header"
+  import IndexSwiper from "./components/Indexswiper"
   export default {
     name: 'Home',
     components: {
-      HomeHeader
+      HomeHeader,
+      IndexSwiper
     }
   }
 </script>
