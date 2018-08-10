@@ -6,6 +6,7 @@ import store from '../store'
 
 // 修改为按需加载
 const Home = () => import('@/pages/home/Home')
+const Index = () => import('@/pages/index/Index')
 
 Vue.use(Router)
 
@@ -13,8 +14,8 @@ const router = new Router({
   routes: [
     {
       path: '/',
-      name: 'Home',
-      component: Home
+      name: 'Index',
+      component: Index
     }
   ]
 })

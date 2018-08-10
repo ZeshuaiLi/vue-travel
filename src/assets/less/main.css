@@ -1,0 +1,63 @@
+body {
+  background-color: #fff;
+}
+li {
+  list-style: none;
+}
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+dd,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+  font-family: 'PingFang', 'microsoft yahei', 'Droid Sans Fallback', 'STHeitiSC-Light', 'STHeitiSC-Light', 'arial';
+}
+.shengluehao {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.slide-enter-active {
+  transition: all .3s ease .3s;
+}
+.slide-leave-active {
+  transition: all .3s ease;
+}
+.slide-enter {
+  transform: translateX(100%);
+}
+.slide-leave-active {
+  opacity: 0;
+  transform: translateX(-100%);
+}
+.router-link-exact-active.active {
+  color: blue;
+}
+a:active,
+a:focus,
+a:visited,
+a:link {
+  outline: none;
+  color: #333;
+}
+button {
+  border: none;
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+/*# sourceMappingURL=main.css.map */

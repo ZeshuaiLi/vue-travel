@@ -23,7 +23,8 @@ module.exports = {
     globle_var: {
       DOMAIN: '"http://shop.efubao.com"', // 接口服务器主域名
       PICTURE_HOST: '"http://img2.efbimg.com"', // 图片拼接路径
-      UPLOAD_IMAGE: '"http://openapi.efubao.com/oss/fileupload/singlepic?platform=plt&businessType=order"' // 上传路径
+      UPLOAD_IMAGE: '"http://openapi.efubao.com/oss/fileupload/singlepic?platform=plt&businessType=order"', // 上传路径
+	    HOME_HOST: '"http://home.efubao.qa"'
     }
   },
   dev: {
@@ -49,7 +50,8 @@ module.exports = {
       // DOMAIN: '"http://10.20.3.137:3000"', // 接口服务器主域名
       DOMAIN: '"http://10.20.1.56:3000"', // 接口服务器主域名
       PICTURE_HOST: '"http://img2-qa.efbimg.com"', // 图片拼接路径
-      UPLOAD_IMAGE: '"http://openapi.efubao.qa/oss/fileupload/singlepic?platform=plt&businessType=order"' // 图片上传路径 
+      UPLOAD_IMAGE: '"http://openapi.efubao.qa/oss/fileupload/singlepic?platform=plt&businessType=order"', // 图片上传路径
+	    HOME_HOST: '"http://home.efubao.qa"'
     }
   },
   test: {

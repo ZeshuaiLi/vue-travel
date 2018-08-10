@@ -18,7 +18,8 @@ module.exports = {
   globals: {
     DOMAIN: true,
     PICTURE_HOST: true,
-    UPLOAD_IMAGE: true
+    UPLOAD_IMAGE: true,
+	  HOME_HOST: true
   },
   // add your custom rules here
   'rules': {

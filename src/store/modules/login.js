@@ -127,6 +127,7 @@ const mutations = {
     router.push('login');
   },
   [types.GET_USER_INFO_SUCCESS] (state, result) {
+    console.log(result);
     Object.assign(state, {
       tags: result.companyName,
       type: result.companyNaturename,
